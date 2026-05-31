@@ -12,22 +12,7 @@ Desenvolvida como parte do home lab de Blue Team / SOC.
 
 ## Demo
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  SOC AI ASSISTANT          ● OLLAMA ONLINE  llama3.2:3b ║
-╠══════════════╦═════════════════════════════════════════╣
-║ HISTÓRICO    ║ EVENTO ÚNICO  │  ANÁLISE DE LOG          ║
-║              ║                                          ║
-║ [CRÍTICO]    ║ > Failed password for root from          ║
-║ 03:12:44     ║   45.33.32.156 ...              [ANALISAR]║
-║ brute force  ║                                          ║
-║              ║ ◈ ANÁLISE — 03:12:44                     ║
-║ [ALTO]       ║ **SEVERIDADE:** CRÍTICO                  ║
-║ 02:58:10     ║ **TIPO:** Brute Force SSH + Root Login   ║
-║ root login   ║ **ANÁLISE:** IP externo realizou 8       ║
-║              ║ tentativas em 14s e obteve acesso...     ║
-╚══════════════╩═════════════════════════════════════════╝
-```
+![SOC AI Assistant](Captura de tela de 2026-05-31 10-00-35.png)
 
 ---
 
