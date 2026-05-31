@@ -12,7 +12,7 @@ Desenvolvida como parte do home lab de Blue Team / SOC.
 
 ## Demo
 
-![SOC AI Assistant](Captura de tela de 2026-05-31 10-00-35.png)
+![SOC AI Assistant](screenshot.png)
 
 ---
 
